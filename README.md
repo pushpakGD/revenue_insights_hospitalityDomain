@@ -14,8 +14,8 @@ Things learned while working on this dashboard:
 ## Model View
 ### Overall Analysis View
 
-![pbss1](https://github.com/pushpakGD/revenue_insights_hospitalityDomain/assets/143299029/35d7e84f-a463-4819-b96c-444130f3b9ef)
+
 
 ### Monthly Analysis View
 
-![pbss2](https://github.com/pushpakGD/revenue_insights_hospitalityDomain/assets/143299029/36ecff7e-5f44-4ad4-bad9-b0829d9deffb)
+
