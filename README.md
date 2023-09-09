@@ -18,4 +18,4 @@ Things learned while working on this dashboard:
 
 ### Monthly Analysis View
 
-
+![pbss2](https://github.com/pushpakGD/revenue_insights_hospitalityDomain/blob/main/dashboard/pbss2.jpg)
